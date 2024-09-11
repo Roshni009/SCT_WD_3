@@ -1,0 +1,27 @@
+<h1>Responsive Tic Tac Toe Game</h1>
+<p>This repository contains a responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The design is fully responsive, ensuring a seamless user experience across various screen sizes, including desktops, tablets, and mobile devices.</p>
+
+<h2>Project Overview</h2>
+<ul>
+    <li>
+         A clean and easily understandable code
+    </li>
+    <li>Responsive elements that adapt to different screen sizes, offering a consistent experience on all devices.</li>
+    <li>A JavaScript section for build a logic to identify winner, </li>
+</ul>
+
+<h2>File Structure</h2>
+<ul>
+<li>index.html: Contains the structure and content of the Tic-Tac-Toe game structure.</li>
+<li>css/styles.css: Styles the structure of game anding page for different screen sizes and devices.</li>
+<li>js/script.js: Implements interactive features and behaviors using JavaScript.</li>
+</ul>
+
+<h2>Technology Used</h2>
+<ul>
+    <li>HTML5: To structure the content.</li>
+    <li>CSS3: For styling and creating responsive layouts with media queries.</li>
+    <li>JavaScript: To add interactivity and enhance user experience.
+    </li>
+
+</ul>
