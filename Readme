@@ -10,12 +10,12 @@ The landing page includes:
 - A visually appealing layout with smooth navigation.
 - A clean and understandable code 
 - Responsive elements that adapt to different screen sizes, offering a consistent experience on all devices.
-- A JavaScript section for identify the winner.
+- A JavaScript section for identifying the winner.
 
 ## File Structure
-- `index.html`: Contains the structure of the webpage, including sections like the structure of game.
+- `index.html`: Contains the structure of the game.
 - `style.css`: Defines the styling, including responsiveness, typography, colors, and layout elements.
-- `script.js`: Adds interactive functionalities, such as whom turn, identify the winner and check draw case as well.
+- `script.js`: Adds interactive functionalities, such as who turns, identifying the winner, and checking the draw case.
 
 ## Technologies Used
 - **HTML5**: To structure the content.
