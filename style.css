@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #08415C;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 40px;
+    color: #388697;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+   height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5vmin;
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 2vmin;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    font-size: 8vmin;
+    font-weight: 700;
+    color: #CC2936;
+    background-color: #EBBAB9;
+    outline: none;
+   
+}
+.box:hover {
+   background-color: #388697;
+}
+
+.reset-btn {
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #B5FFE1;
+    box-shadow: 0px 2px 0px 2px #08415C;
+    font-size: 20px;
+    margin-bottom: 5vmin;
+}
+
+.new-btn {
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #B5FFE1;
+    box-shadow: 0 0 1rem #08415C;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 10vmin;
+}
+
+.msg-container {
+    height: 100vh;
+     
+}
+
+#msg-btn {
+    font-size: 24px;
+    color: #75cc29;
+    font-weight: 700;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30vmin;
+    
+}
+
+
+.hide {
+    display: none;
+}
