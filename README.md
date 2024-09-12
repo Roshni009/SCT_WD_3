@@ -17,7 +17,7 @@ The landing page includes:
 - `style.css`: Defines the styling, including responsiveness, typography, colors, and layout elements.
 - `script.js`: Adds interactive functionalities, such as who turns, identifying the winner, and checking the draw case.
 
-## Technologies Used
+## Technologies Usedg
 - **HTML5**: To structure the content.
 - **CSS3**: For styling and creating responsive layouts with media queries.
 - **JavaScript**: To add interactivity and enhance user experience.
