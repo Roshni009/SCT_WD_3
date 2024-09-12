@@ -2,7 +2,7 @@
 
 # Responsive Tic_Tac_Toe Game
 
-This repository contains a **responsive landing page** for a restaurant, built using **HTML, CSS, and JavaScript**. The design is fully responsive, ensuring a seamless user experience across various screen sizes, including desktops, tablets, and mobile devices.
+This repository contains a **responsive game page**, built using **HTML, CSS, and JavaScript**. The design is fully responsive, ensuring a seamless user experience across various screen sizes, including desktops, tablets, and mobile devices.
 
 ## Project Overview
 
